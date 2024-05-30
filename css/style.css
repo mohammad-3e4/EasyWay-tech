@@ -1,11 +1,11 @@
 /********** Template CSS **********/
 :root {
-    --primary: #00B98E;
+    --primary: #e54406c4;
     --light: #F3F6F8;
     --dark: #0E2E50;
 }
 
-
+/* #00B98E */
 /*** Spinner ***/
 #spinner {
     opacity: 0;
